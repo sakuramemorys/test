@@ -1,0 +1,12 @@
+node_modules
+energy
+
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.local
+
+package-lock.json
